@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Node server for recipe calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "patrick.dooley@3ds.com",
+  "license": "MIT"
+}
